@@ -27,3 +27,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+- Vue.js 스타일가이드 A, B 참고
+https://kr.vuejs.org/v2/style-guide/index.html
